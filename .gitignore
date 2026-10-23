@@ -1,0 +1,48 @@
+
+# Visual Studio - „·›«  Ê≈⁄œ«œ«  „Õ·Ì…
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# „·›«  «·»‰«¡
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+
+# „·›«   ‰›Ì–Ì… Ê„ﬂ »«  ‰« Ã… ⁄‰ «·»‰«¡
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.cache
+
+# „·›«  „ƒﬁ …
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.old
+
+# „·›«  Visual Studio «·«Œ »«—Ì… Ê«· €ÿÌ…
+TestResults/
+*.coverage
+*.coveragexml
+
+# ≈⁄œ«œ«  «·„” Œœ„ «·„Õ·Ì…
+*.csproj.user
+*.vbproj.user
+
+# „·›«  ‰Ÿ«„ «· ‘€Ì·
+Thumbs.db
+Desktop.ini
+.DS_Store
